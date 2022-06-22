@@ -1,3 +1,5 @@
 test 1
 test song
 test file
+new line1
+new line2
